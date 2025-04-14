@@ -1,7 +1,6 @@
-import React from 'react'
 import Authform from '@/components/Authform'
 
-const page = () => {
+const page = async () => {
   return <Authform type="sign-up" />
 }
 
