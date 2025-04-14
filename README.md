@@ -26,13 +26,6 @@
 ## <a name="introduction">🤖 Introduction</a>
 
 Built with Next.js for the user interface and backend logic, Firebase for authentication and data storage, styled with TailwindCSS and using Vapi's voice agents, **Prepwise** is a website project designed to help you learn integrating AI models with your apps. The platform offers a sleek and modern experience for job interview preparation.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank">
-  <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" />
-</a>
-
 ---
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
@@ -76,8 +69,8 @@ Ensure you have the following installed on your machine:
 ### **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/ai_mock_interviews.git
-cd ai_mock_interviews
+git clone [https://github.com/adrianhajdin/ai_mock_interviews.git](https://github.com/skyyycodes/intervu.ai_mockinterview.git)
+cd intervu.ai_mockinterview
 ```
 
 ### **Installation**
@@ -153,14 +146,5 @@ Open [http://localhost:3000](http://localhost:3000) to see the app in action!
 All the visuals, icons, and UI elements used in this project are stored inside the `public` directory.
 
 ---
-
-## <a name="more">🚀 More</a>
-
-If you like this project, don’t forget to:
-
-- ⭐ Star the repo  
-- 🍴 Fork it  
-- 📢 Share it with your friends  
-- 🎥 Subscribe to [JavaScript Mastery](https://www.youtube.com/@javascriptmastery/videos)  
 
 Happy building! 🚀
